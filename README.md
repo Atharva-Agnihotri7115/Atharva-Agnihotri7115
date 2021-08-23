@@ -1,12 +1,13 @@
-### Hi there 👋
+![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Atharva-Agnihotri7115&show_icons=true&theme=algolia)
 
-<!--
-**Atharva-Agnihotri7115/Atharva-Agnihotri7115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Agnihotri7115&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-Here are some ideas to get you started:
+## Hello!
+Hello! I'm Atharva, 16 Y/O rookie developer. I am Pursuing My Studies In 11TH Standard
 
-- 🔭 I’m currently working on Development For XT
-- 🌱 I’m currently Pursuing My Studies In 11Th Standard
-- 📫 How to reach me: atharva.agnihotri7115@gmail.com
-- Age: 16 Y/O
--->
+## Little Info About Me
+Just Started 
+## Can I contact you?
+Yes Why Not! Contact Me On Gmail:- atharva.agnihotri7115@gmail.com
+## What's your project now?
+Working On Development For XT
