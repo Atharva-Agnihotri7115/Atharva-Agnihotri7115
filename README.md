@@ -1,9 +1,9 @@
 ## Hello!
-Hello! I'm Atharva, 18 Y/O rookie developer
+Hello! I'm Atharva, 18 Y/O
 
 ## Little Info About Me
-Just Started 
+Just a tech enthusiast have previously worked in development for Realme XT,Realme Nemo(RM6785),Realme X,Redmi Note 10Pro,Poco F1 
 ## Can I contact you?
 Yes Why Not! Contact Me On Gmail:- atharva.agnihotri7115@gmail.com
 ## What's your project now?
-Working On Development For Realme X (RMX1901)
+Nothing As of now
