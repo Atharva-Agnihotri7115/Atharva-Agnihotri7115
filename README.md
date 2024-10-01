@@ -46,6 +46,7 @@ When I'm not coding, I enjoy:
 ---
 
 ## Connect with Me
-- [GMail](atharva.agnihotri7115@gmail.com)  
+- [Gmail](atharva.agnihotri7115@gmail.com)
+- [Telegram](https://t.me/zyzzbrahhhh)
 
 
