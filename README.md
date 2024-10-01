@@ -25,9 +25,12 @@ I'm currently exploring new projects and opportunities for Poco X6Pro(Duchamp). 
 
 
 ## 🌟 Skills
-![Skill Icon](https://beebom.com/wp-content/uploads/2019/11/Android-Bugdroid-shutterstock-website.jpg?w=750&quality=75) 
+<img src="https://beebom.com/wp-content/uploads/2019/11/Android-Bugdroid-shutterstock-website.jpg?w=750&quality=75" alt="andrux" width="200" height="120" />
+
 - Android Development
+
 - Git & GitHub
+
 - Linux
 
 ---
@@ -38,7 +41,7 @@ When I'm not coding, I enjoy:
 - Working out 💪
 - Exploring new tech trends 📱
 
-![Hobby Image](https://www.greatestphysiques.com/wp-content/uploads/2017/10/David-Laid.05.jpg) 
+<img src="https://www.greatestphysiques.com/wp-content/uploads/2017/10/David-Laid.05.jpg" alt="workout" width="190" height="350" />
 
 ---
 
