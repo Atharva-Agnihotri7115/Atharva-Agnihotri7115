@@ -49,6 +49,20 @@ Outside tech, I vibe with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Agnihotri7115&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+### 🔥 Streak Heatmap
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Atharva-Agnihotri7115&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 Contribution Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharva-Agnihotri7115&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+</p>
+
 ---
 
 ## 📬 Connect With Me
