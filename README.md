@@ -1,52 +1,61 @@
-# Hello, I'm Atharva! 👋
+<h1 align="center">Hey, I'm Atharva! 👋</h1>
 
-## About Me
-<img src="https://images7.alphacoders.com/666/thumb-1920-666343.jpg" alt="Profile Banner" width="750" height="350" />
-
-I'm an 18-year-old tech enthusiast based in **Delhi, India**. I've previously worked in development for various devices including:
-
-- **Realme XT**
-- **Realme Nemo (RM6785)**
-- **Realme X**
-- **Redmi Note 10 Pro**
-- **Poco F1**
-
-Previous Experience:
-
-- **Official Maintainer for ConquerOS (Realme XT)**
-- **Official Maintainer for SparkOS (RM6785)**
-
-## 📫 Contact Me
-Feel free to reach out! You can contact me at:  
-[atharva.agnihotri7115@gmail.com](mailto:atharva.agnihotri7115@gmail.com)
-
-## Current Projects
-I'm currently exploring new projects and opportunities for Poco X6Pro(Duchamp). Stay tuned for updates!
-
-
-## 🌟 Skills
-<img src="https://beebom.com/wp-content/uploads/2019/11/Android-Bugdroid-shutterstock-website.jpg?w=750&quality=75" alt="andrux" width="200" height="120" />
-
-- Android Development
-
-- Git & GitHub
-
-- Linux
+<p align="center">
+  🧠 19 y/o tech enthusiast & Android developer from Delhi, India 🇮🇳 <br>
+  📱 Ex-ROM Maintainer | Passionate about open-source | Fitness-focused like <a href="https://www.instagram.com/davidlaid/">David Laid</a>
+</p>
 
 ---
 
-## 🚀 Hobbies
-When I'm not coding, I enjoy:
-- Playing football ⚽
-- Working out 💪
-- Exploring new tech trends 📱
+## 🔧 Projects I've Worked On
 
-<img src="https://www.greatestphysiques.com/wp-content/uploads/2017/10/David-Laid.05.jpg" alt="workout" width="190" height="350" />
+I've worked on a variety of devices and projects in the custom ROM scene:
+
+- **Realme XT** – Official Maintainer @ ConquerOS  
+- **Realme Nemo (RM6785)** – Official Maintainer @ SparkOS  
+- **Realme X**, **Redmi Note 10 Pro**, **Poco F1**
+
+## 🚧 Current Work
+
+Currently experimenting with:
+- **Poco X6 Pro (Duchamp)** — breaking and fixing stuff — the usual dev routine.
+
+🔗 [Duchamp Device Tree](https://github.com/Atharva-Agnihotri7115/device_xiaomi_duchamp)
 
 ---
 
-## Connect with Me
-- [Gmail](atharva.agnihotri7115@gmail.com)
-- [Telegram](https://t.me/zyzzbrahhhh)
+## 🧰 Tech Stack & Skills
 
+- 🛠️ Android (ROM Development, Device Trees, Init, SELinux)
+- 🐧 Arch Linux & Gnome (daily drivers)
+- 🔀 Git & GitHub workflows
 
+---
+
+## 💬 Hobbies & Interests
+
+Outside tech, I vibe with:
+- ⚽ Football  
+- 🏋️‍♂️ Gym (Building like David Laid)  
+- 🎧 Music  
+- 🤸‍♂️ Martial arts & tricking
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Agnihotri7115&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Agnihotri7115&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 📧 [atharva.agnihotri7115@gmail.com](mailto:atharva.agnihotri7115@gmail.com)  
+- 💬 [Telegram](https://t.me/zyzzbrahhhh)
+
+---
+
+> “Stay consistent. Not just in code, but in character.” – Atharva
