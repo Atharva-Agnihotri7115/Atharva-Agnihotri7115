@@ -11,8 +11,8 @@
 
 I've worked on a variety of devices and projects in the custom ROM scene:
 
-- **Realme XT** – Official Maintainer @ ConquerOS  
-- **Realme Nemo (RM6785)** – Official Maintainer @ SparkOS  
+- **Realme XT** – Official Maintainer @ConquerOS  
+- **Realme Nemo (RM6785)** – Official Maintainer @Spark-Rom
 - **Realme X**, **Redmi Note 10 Pro**, **Poco F1**
 
 ## 🚧 Current Work
